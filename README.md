@@ -1,5 +1,4 @@
 # ljdasjkdjalsdjasjdljasldjlasjdlajsdljas
 ada
-ratio ten
-counter ratio
+ratio ten 
 sd
